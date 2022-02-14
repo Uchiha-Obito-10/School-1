@@ -1,0 +1,31 @@
+#video {
+    width: 100%;
+}
+
+.tarvel_MainDiv {
+    border: 1px solid lightgray;
+}
+
+.tarvel_MainDiv img {
+    width: 100%;
+}
+
+.tarvel_MainDiv h5,
+.tarvel_MainDiv p {
+    margin: 20px;
+}
+
+.achi-head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.achi-head i {
+    float: right;
+}
+
+.achievment-text span {
+    color: orange;
+}
